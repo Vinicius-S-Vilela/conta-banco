@@ -1,6 +1,6 @@
 # Sistema de Conta bancária
 
-# Visão Geral
+## Visão Geral
 O projeto "Conta Banco" foi desenvolvido com o objetivo de aprimorar meus estudos em Programação Orientada a Objetos (POO). É um sistema simples em Java que simula operações bancárias básicas, como abrir conta, fechar conta, depositar, sacar e pagar mensalidade. O objetivo é permitir a criação e manipulação de contas bancárias de dois tipos diferentes: Conta Corrente (CC) e Conta Poupança (CP), com regras específicas para cada operação.
 
 ## Funcionalidades Principais
@@ -51,5 +51,5 @@ O projeto "Conta Banco" foi desenvolvido com o objetivo de aprimorar meus estudo
 - Adicionar uma interface gráfica (GUI) para facilitar o uso.
 - Expandir as operações, incluindo transferência entre contas e relatórios de transações.
 
-## Licença
-Este projeto não possui uma licença específica, mas pode ser modificado e utilizado para fins educacionais ou de desenvolvimento pessoal.
+## Contribuição
+Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para isso, faça um fork deste repositório, crie uma branch para sua feature, e submeta um pull request.
